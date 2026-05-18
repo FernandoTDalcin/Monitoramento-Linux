@@ -41,19 +41,19 @@ Veja o script em ação dentro de um ambiente controlado (Kali Linux):
 
 ### Menu Principal
 A interface inicial centraliza todas as ferramentas disponíveis para o usuário:
-![Menu Principal](imagens/menu.png)
+![Menu Principal](Monitoramento-Linux/Imagens/Menu.png)
 
 ### 1. Verificação de Espaço em Disco (Opção 2)
 Retorno detalhado sobre o uso das partições do sistema:
-![Espaço em Disco](imagens/disco.png)
+![Espaço em Disco](Monitoramento-Linux/Imagens/Disco.png)
 
 ### 2. Monitoramento de Memória RAM (Opção 3)
 Visualização clara do consumo de memória física e virtual:
-![Memória RAM](imagens/memoria.png)
+![Memória RAM](Monitoramento-Linux/Imagens/RAM.png)
 
 ### 3. Informações de CPU (Opção 4)
 Diagnóstico completo do hardware de processamento:
-![Informações da CPU](imagens/cpu.png)
+![Informações da CPU](Monitoramento-Linux/Imagens/CPU.png)
 
 ---
 
@@ -83,22 +83,6 @@ Para testar e utilizar o monitor em sua máquina local, siga os passos abaixo no
     ./Monitoramento.sh
 
     ⚠️ Nota: Algumas opções do menu (como atualização do sistema e limpeza de cache) exigem privilégios administrativos. Caso necessário, execute o script utilizando sudo ./Monitoramento.sh.
-
-📂 Estrutura do Projeto
-
-A organização de arquivos do repositório está disposta da seguinte forma:
-Bash
-
-Monitoramento-Linux/
-│
-├── imagens/
-│   ├── menu.png         # Screenshot do Menu Principal
-│   ├── disco.png        # Screenshot da consulta de armazenamento
-│   ├── memoria.png      # Screenshot do consumo de RAM
-│   └── cpu.png          # Screenshot das especificações da CPU
-│
-├── Monitoramento.sh     # Script principal em Bash
-└── README.md            # Documentação do projeto
 
 🎯 Objetivos de Aprendizado
 
