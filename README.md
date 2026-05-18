@@ -41,19 +41,19 @@ Veja o script em ação dentro de um ambiente controlado (Kali Linux):
 
 ### Menu Principal
 A interface inicial centraliza todas as ferramentas disponíveis para o usuário:
-![Menu Principal](Monitoramento-Linux/Imagens/Menu.png)
+![Menu Principal](Monitoramento-Linux/imagens/Menu.png)
 
 ### 1. Verificação de Espaço em Disco (Opção 2)
 Retorno detalhado sobre o uso das partições do sistema:
-![Espaço em Disco](Monitoramento-Linux/Imagens/Disco.png)
+![Espaço em Disco](Monitoramento-Linux/imagens/Disco.png)
 
 ### 2. Monitoramento de Memória RAM (Opção 3)
 Visualização clara do consumo de memória física e virtual:
-![Memória RAM](Monitoramento-Linux/Imagens/RAM.png)
+![Memória RAM](Monitoramento-Linux/imagens/RAM.png)
 
 ### 3. Informações de CPU (Opção 4)
 Diagnóstico completo do hardware de processamento:
-![Informações da CPU](Monitoramento-Linux/Imagens/CPU.png)
+![Informações da CPU](Monitoramento-Linux/imagens/CPU.png)
 
 ---
 
