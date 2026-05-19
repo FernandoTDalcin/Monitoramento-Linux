@@ -88,14 +88,11 @@ Para testar e utilizar o monitor em sua máquina local, siga os passos abaixo no
 
 O desenvolvimento deste script permitiu colocar em prática:
 
-    Criação de loops e estruturas condicionais avançadas (while, case, if/else).
-
-    Manipulação de comandos nativos do ecossistema Linux (df, free, lscpu, tar, entre outros).
-
-    Formatação de saídas de texto no terminal para melhor experiência do usuário.
-
-    Boas práticas de versionamento de código com Git e GitHub.
-
+- Criação de loops e estruturas condicionais avançadas (while, case, if/else).
+-  Manipulação de comandos nativos do ecossistema Linux (df, free, lscpu, tar, entre outros).
+-  Formatação de saídas de texto no terminal para melhor experiência do usuário.
+-  Boas práticas de versionamento de código com Git e GitHub.
+    
 👤 Autor
 
 Fernando T. Dalcin.
